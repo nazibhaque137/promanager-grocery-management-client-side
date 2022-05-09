@@ -1,0 +1,11 @@
+.item-container {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.item-img{
+    width: 200px;
+    height: 400px;
+}
